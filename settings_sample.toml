@@ -1,0 +1,4 @@
+# 読み込むvaultのパス
+vaults = [
+    "D:\\temp\\obsidian_list_test\\vault"
+]
